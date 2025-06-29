@@ -1,0 +1,89 @@
+Gaurav rolled a 3 and moved from 0 to 3
+Sagar rolled a 3 and moved from 0 to 3
+Himanshu rolled a 2 and moved from 0 to 37
+-----
+Gaurav rolled a 5 and moved from 3 to 8
+Sagar rolled a 1 and moved from 3 to 4
+Himanshu rolled a 4 and moved from 37 to 20
+-----
+Gaurav rolled a 5 and moved from 8 to 13
+Sagar rolled a 2 and moved from 4 to 6
+Himanshu rolled a 3 and moved from 20 to 23
+-----
+Gaurav rolled a 6 and moved from 13 to 19
+Sagar rolled a 1 and moved from 6 to 7
+Himanshu rolled a 6 and moved from 23 to 29
+-----
+Gaurav rolled a 1 and moved from 19 to 20
+Sagar rolled a 1 and moved from 7 to 8
+Himanshu rolled a 5 and moved from 29 to 34
+-----
+Gaurav rolled a 2 and moved from 20 to 22
+Sagar rolled a 6 and moved from 8 to 14
+Himanshu rolled a 2 and moved from 34 to 36
+-----
+Gaurav rolled a 1 and moved from 22 to 23
+Sagar rolled a 4 and moved from 14 to 18
+Himanshu rolled a 2 and moved from 36 to 38
+-----
+Gaurav rolled a 3 and moved from 23 to 26
+Sagar rolled a 5 and moved from 18 to 23
+Himanshu rolled a 1 and moved from 38 to 39
+-----
+Gaurav rolled a 4 and moved from 26 to 30
+Sagar rolled a 3 and moved from 23 to 26
+Himanshu rolled a 6 and moved from 39 to 45
+-----
+Gaurav rolled a 5 and moved from 30 to 35
+Sagar rolled a 3 and moved from 26 to 29
+Himanshu rolled a 5 and moved from 45 to 50
+-----
+Gaurav rolled a 4 and moved from 35 to 39
+Sagar rolled a 4 and moved from 29 to 6
+Himanshu rolled a 6 and moved from 50 to 53
+-----
+Gaurav rolled a 2 and moved from 39 to 20
+Sagar rolled a 3 and moved from 6 to 9
+Himanshu rolled a 2 and moved from 53 to 55
+-----
+Gaurav rolled a 3 and moved from 20 to 23
+Sagar rolled a 1 and moved from 9 to 32
+Himanshu rolled a 2 and moved from 55 to 57
+-----
+Gaurav rolled a 4 and moved from 23 to 46
+Sagar rolled a 3 and moved from 32 to 35
+Himanshu rolled a 3 and moved from 57 to 60
+-----
+Gaurav rolled a 3 and moved from 46 to 9
+Sagar rolled a 5 and moved from 35 to 40
+Himanshu rolled a 3 and moved from 60 to 63
+-----
+Gaurav rolled a 1 and moved from 9 to 32
+Sagar rolled a 6 and moved from 40 to 46
+Himanshu rolled a 4 and moved from 63 to 67
+-----
+Gaurav rolled a 5 and moved from 32 to 37
+Sagar rolled a 1 and moved from 46 to 47
+Himanshu rolled a 2 and moved from 67 to 69
+-----
+Gaurav rolled a 6 and moved from 37 to 43
+Sagar rolled a 6 and moved from 47 to 53
+Himanshu rolled a 2 and moved from 69 to 91
+-----
+Gaurav rolled a 5 and moved from 43 to 48
+Sagar rolled a 1 and moved from 53 to 54
+Himanshu rolled a 3 and moved from 91 to 94
+-----
+Gaurav rolled a 3 and moved from 48 to 68
+Sagar rolled a 1 and moved from 54 to 55
+Himanshu rolled a 1 and moved from 94 to 75
+-----
+Gaurav rolled a 2 and moved from 68 to 70
+Sagar rolled a 6 and moved from 55 to 79
+Himanshu rolled a 1 and moved from 75 to 76
+-----
+Gaurav rolled a 2 and moved from 70 to 72
+Sagar rolled a 5 and moved from 79 to 84
+Himanshu rolled a 5 and moved from 76 to 100
+🎉 Himanshu wins!
+-----
